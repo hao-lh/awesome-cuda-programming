@@ -1,11 +1,18 @@
 The Essential Road to Be A High Performance Computing Scientist
 # Textbooks
 ## C/C++
-| No. | Author(s) | Title and links | Date and versions |
+|  No. | Author(s) | Title and links | Date and versions |
 | :--: | :------------------ | :--------------------------------------- | :------------ |
 |  1   | Stanley B. Lippman  | [C++ Primer](http://www.informit.com/store/c-plus-plus-primer-9780321714114) | Aug 6, 2012, 5th Ed. |
 |  2   | Bjarne Stroustrup   | [The C++ Programming Language](http://www.stroustrup.com/4th.html) | May 19, 2013, 4th Ed. |
 |  3   | Nicolai M. Josuttis | [The C++ Standard Library: A Tutorial and Reference](http://www.cppstdlib.com) | April 9, 2012, 2nd Ed. |
+
+## Computer Architecture
+|  No. | Author(s) | Title and links | Date and versions |
+| :--: | :------------------ | :--------------------------------------- | :------------ |
+|  1   | David A. Patterson && John L. Hennes | [Computer Organization and Design The Hardware Software Interface](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269/) | October 10, 2013, 5th Ed. |
+|  2   | David A. Patterson | [Computer Architecture A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X/) | September 30, 2011， 5th Ed. | 
+
 
 ## Parallel Computing
 | No. | Author(s) | Title and links | Date and versions |
